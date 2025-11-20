@@ -1,5 +1,5 @@
 # EVA-Net
-Code for "EVA-Net: Interpretable Anomaly Detection for Brain Health via Learning Continuous Aging Prototypes from One-Class EEG Cohorts"
+Code for "[EVA-Net: Interpretable Anomaly Detection for Brain Health via Learning Continuous Aging Prototypes from One-Class EEG Cohorts](https://arxiv.org/pdf/2511.15393)"
 
 ## Quick Start
 
